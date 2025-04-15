@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973280273499",
+    "project_id": "black-monitor-451210-i1",
+    "storage_bucket": "black-monitor-451210-i1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973280273499:android:131529fab802dfc17b4b7e",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7usCVpBoheUQufgSpZ2WVWko7gCH7t0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
